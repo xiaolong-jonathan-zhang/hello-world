@@ -1,2 +1,2 @@
 # hello-world
-first github repo following tutorial guide
+This is revised readme for testing how to commit a change
